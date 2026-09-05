@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-label="Daniel Fernando Parra Diaz - Software Engineer, Data and AI Engineering Student">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#15171C"/>
+      <stop offset="1" stop-color="#0B0C0F"/>
+    </linearGradient>
+    <style>
+      .mono { font-family: "SF Mono", ui-monospace, Menlo, Consolas, monospace; }
+      .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
+      .dim { fill: #838791; }
+      .mid { fill: #B6BAC3; }
+      .soft { fill: #C9CDD4; }
+      .amber { fill: #DFA54A; }
+      .line { stroke: #262A31; }
+      .hair { stroke: #24272E; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="430" rx="16" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="428" rx="15" fill="none" class="line"/>
+
+  <text x="40" y="34" class="mono dim" font-size="11" letter-spacing="1.2">ENGINEERING IDENTITY</text>
+  <text x="1160" y="34" text-anchor="end" class="mono dim" font-size="11" letter-spacing="1.2">SOFTWARE &#215; DATA &#215; AI</text>
+  <line x1="40" y1="50" x2="1160" y2="50" class="hair"/>
+
+  <text x="40" y="124" class="sans" font-size="40" font-weight="600" letter-spacing="0.2" fill="#EAEBEE">Daniel Fernando Parra Diaz</text>
+
+  <rect x="40" y="152" width="8" height="8" rx="2" class="amber"/>
+  <text x="58" y="161" class="mono amber" font-size="13.5" font-weight="600" letter-spacing="1.2">SOFTWARE ENGINEER</text>
+  <text x="40" y="186" class="mono mid" font-size="13.5" letter-spacing="1.2">DATA &amp; AI ENGINEERING STUDENT</text>
+
+  <line x1="40" y1="216" x2="330" y2="216" class="hair"/>
+
+  <text x="40" y="262" class="sans" font-size="19" fill="#B9BDC6" letter-spacing="0.3">Building software at the intersection of</text>
+  <text x="40" y="292" class="sans" font-size="19" fill="#B9BDC6" letter-spacing="0.3">distributed systems, data and AI.</text>
+
+  <text x="700" y="92" class="mono dim" font-size="10.5" letter-spacing="1.5">SIGNAL / INTENT STACK</text>
+  <line x1="713" y1="112" x2="713" y2="318" stroke="#2E323A" stroke-width="1.5"/>
+  <circle cx="713" cy="128" r="3" fill="#3A3E46"/>
+  <circle cx="713" cy="170" r="3" fill="#3A3E46"/>
+  <circle cx="713" cy="212" r="3" fill="#3A3E46"/>
+  <circle cx="713" cy="254" r="3" class="amber"/>
+  <circle cx="713" cy="296" r="3" class="amber"/>
+  <text x="730" y="133" class="mono soft" font-size="12.5" letter-spacing="1">SOFTWARE</text>
+  <text x="730" y="175" class="mono soft" font-size="12.5" letter-spacing="1">DISTRIBUTED SYSTEMS</text>
+  <text x="730" y="217" class="mono soft" font-size="12.5" letter-spacing="1">DATA</text>
+  <text x="730" y="259" class="mono amber" font-size="12.5" font-weight="600" letter-spacing="1">AI</text>
+  <text x="730" y="301" class="mono amber" font-size="12.5" font-weight="600" letter-spacing="1">AGENTS</text>
+
+  <rect x="700" y="334" width="330" height="32" rx="6" fill="#101216" stroke="#3A2F1D"/>
+  <circle cx="718" cy="350" r="4" class="amber"/>
+  <text x="734" y="355" class="mono" font-size="11" letter-spacing="0.8" fill="#C9A56B">STATUS / BUILDING - PHI-AGENT</text>
+
+  <line x1="40" y1="396" x2="1160" y2="396" class="hair"/>
+  <text x="40" y="416" class="mono dim" font-size="11" letter-spacing="0.8">danielferparradiaz</text>
+  <text x="1160" y="416" text-anchor="end" class="mono dim" font-size="11" letter-spacing="0.8">github.com/danielferparradiaz</text>
+</svg>
