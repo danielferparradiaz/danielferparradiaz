@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Base - experience and education">
+  <defs>
+    <style>
+      .mono { font-family: "SF Mono", ui-monospace, Menlo, Consolas, monospace; }
+      .dim { fill: #8A8A8A; }
+      .mid { fill: #B4B4B4; }
+      .lit { fill: #EAEAEA; }
+      .red { fill: #E61919; }
+      @keyframes blink { 0%,55% { opacity: 1; } 56%,100% { opacity: 0; } }
+      .anim-blink { animation: blink 2s steps(1,end) infinite; }
+      @media (prefers-reduced-motion: reduce) { .anim-blink { animation: none; } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="260" fill="#0A0A0A"/>
+  <rect x="1" y="1" width="1198" height="258" fill="none" stroke="#2B2B2B"/>
+
+  <text x="52" y="34" class="mono dim" font-size="11" letter-spacing="2">BASE //</text>
+  <text x="1150" y="37" text-anchor="end" class="mono red" font-size="11" letter-spacing="1.5">EXPERIENCE ∩ EDUCATION</text>
+
+  <text x="60" y="92" class="mono red" font-size="11" letter-spacing="2">EXPERIENCE</text>
+  <text x="620" y="92" class="mono red" font-size="11" letter-spacing="2">EDUCATION</text>
+
+  <g class="mono">
+    <text x="60" y="128" class="lit" font-size="12.5" font-weight="600" letter-spacing="1">FULL-STACK · CARVAJAL T&amp;S</text>
+    <text x="60" y="152" class="dim" font-size="10" letter-spacing="0.5">ANGULAR · FIGMA → CODE · CLIENTS · REVIEWS</text>
+    <text x="60" y="182" class="lit" font-size="12.5" font-weight="600" letter-spacing="1">JUNIOR · SMART &amp; SAFE</text>
+    <text x="60" y="206" class="dim" font-size="10" letter-spacing="0.5">PHP/LARAVEL · EXCEL/PDF · BOOTSTRAP</text>
+
+    <text x="620" y="128" class="lit" font-size="12.5" font-weight="600" letter-spacing="1">DATA + AI ENGINEERING · UAO</text>
+    <text x="620" y="152" class="dim" font-size="10" letter-spacing="0.5">UNIVERSIDAD AUTÓNOMA DE OCCIDENTE</text>
+    <text x="1120" y="147" text-anchor="end" class="red anim-blink" font-size="10" letter-spacing="1.5">CURRENT</text>
+    <text x="620" y="182" class="lit" font-size="12.5" font-weight="600" letter-spacing="1">SOFTWARE PROGRAMMING</text>
+    <text x="620" y="206" class="dim" font-size="10" letter-spacing="0.5">TECHNICAL DEGREE</text>
+  </g>
+
+  <line x1="52" y1="228" x2="1160" y2="228" stroke="#2E2E2E"/>
+  <text x="52" y="250" class="mono dim" font-size="10" letter-spacing="1.5">ID · DANIEL FERNANDO PARRA DIAZ</text>
+  <text x="1150" y="250" text-anchor="end" class="mono red" font-size="10" letter-spacing="1.5">REV B2</text>
+</svg>
