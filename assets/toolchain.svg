@@ -1,104 +1,81 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="580" viewBox="0 0 1200 580" role="img" aria-label="Daniel's toolchain, grouped by domain">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600" role="img" aria-label="Toolchain - core stack and exploring direction">
   <defs>
     <style>
       .mono { font-family: "SF Mono", ui-monospace, Menlo, Consolas, monospace; }
       .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
-      .dim { fill: #838791; }
-      .soft { fill: #C9CDD4; }
-      .amber { fill: #DFA54A; }
-      .hair { stroke: #24272E; }
+      .dim { fill: #8A8A8A; }
+      .mid { fill: #B4B4B4; }
+      .lit { fill: #EAEAEA; }
+      .red { fill: #E61919; }
     </style>
   </defs>
 
-  <rect width="1200" height="580" rx="16" fill="#0C0D0F"/>
-  <rect x="1" y="1" width="1198" height="578" rx="15" fill="none" stroke="#262A31"/>
+  <rect width="1200" height="600" fill="#0A0A0A"/>
+  <rect x="1" y="1" width="1198" height="598" fill="none" stroke="#2B2B2B"/>
 
-  <text x="40" y="32" class="mono dim" font-size="11" letter-spacing="1.2">TOOLCHAIN</text>
-  <text x="1160" y="32" text-anchor="end" class="mono dim" font-size="11" letter-spacing="1.2">A WORKING SET · NOT A SHOPPING LIST</text>
-  <line x1="40" y1="50" x2="1160" y2="50" class="hair"/>
+  <text x="52" y="30" class="mono dim" font-size="11" letter-spacing="2">TOOLCHAIN</text>
+  <text x="1150" y="33" text-anchor="end" class="mono red" font-size="11" letter-spacing="1.5">CORE INTERSECT EXPLORING</text>
 
-  <g>
-    <rect x="40" y="74" width="364" height="200" rx="10" fill="#101216" stroke="#26292F"/>
-    <text x="60" y="106" class="mono amber" font-size="11.5" font-weight="600" letter-spacing="1.2">01</text>
-    <text x="92" y="106" class="mono dim" font-size="11.5" font-weight="600" letter-spacing="1.2">LANGUAGES</text>
-    <line x1="60" y1="120" x2="384" y2="120" stroke="#23262B"/>
+  <g class="mono">
+    <rect x="40" y="62" width="364" height="150" fill="#0D0D0D" stroke="#2B2B2B"/>
+    <text x="60" y="92" class="mono red" font-size="11" letter-spacing="1.5">01</text>
+    <text x="107" y="92" class="mono lit" font-size="11" letter-spacing="1.5">LANG</text>
+    <line x1="60" y1="108" x2="384" y2="108" stroke="#2E2E2E"/>
+    <text x="60" y="132" class="mono mid" font-size="10.5" letter-spacing="0.5">Java · Python · TypeScript</text>
+    <text x="60" y="152" class="mono mid" font-size="10.5" letter-spacing="0.5">JavaScript · SQL</text>
+    <text x="60" y="172" class="mono mid" font-size="10.5" letter-spacing="0.5">Dart · Swift</text>
 
-    <rect x="418" y="74" width="364" height="200" rx="10" fill="#101216" stroke="#26292F"/>
-    <text x="438" y="106" class="mono amber" font-size="11.5" font-weight="600" letter-spacing="1.2">02</text>
-    <text x="470" y="106" class="mono dim" font-size="11.5" font-weight="600" letter-spacing="1.2">BACKEND</text>
-    <line x1="438" y1="120" x2="762" y2="120" stroke="#23262B"/>
+    <rect x="418" y="62" width="364" height="150" fill="#0D0D0D" stroke="#2B2B2B"/>
+    <text x="438" y="92" class="mono red" font-size="11" letter-spacing="1.5">02</text>
+    <text x="485" y="92" class="mono lit" font-size="11" letter-spacing="1.5">BACKEND</text>
+    <line x1="438" y1="108" x2="762" y2="108" stroke="#2E2E2E"/>
+    <text x="438" y="132" class="mono mid" font-size="10.5" letter-spacing="0.5">Spring Boot · Spring Cloud</text>
+    <text x="438" y="152" class="mono mid" font-size="10.5" letter-spacing="0.5">WebFlux · Security · OAuth2</text>
+    <text x="438" y="172" class="mono mid" font-size="10.5" letter-spacing="0.5">Node.js · NestJS · Laravel</text>
 
-    <rect x="796" y="74" width="364" height="200" rx="10" fill="#101216" stroke="#26292F"/>
-    <text x="816" y="106" class="mono amber" font-size="11.5" font-weight="600" letter-spacing="1.2">03</text>
-    <text x="848" y="106" class="mono dim" font-size="11.5" font-weight="600" letter-spacing="1.2">FRONTEND</text>
-    <line x1="816" y1="120" x2="1140" y2="120" stroke="#23262B"/>
+    <rect x="796" y="62" width="364" height="150" fill="#0D0D0D" stroke="#2B2B2B"/>
+    <text x="816" y="92" class="mono red" font-size="11" letter-spacing="1.5">03</text>
+    <text x="863" y="92" class="mono lit" font-size="11" letter-spacing="1.5">FRONTEND</text>
+    <line x1="816" y1="108" x2="1140" y2="108" stroke="#2E2E2E"/>
+    <text x="816" y="132" class="mono mid" font-size="10.5" letter-spacing="0.5">Angular · React · Svelte</text>
+    <text x="816" y="152" class="mono mid" font-size="10.5" letter-spacing="0.5">SvelteKit · Flutter</text>
+    <text x="816" y="172" class="mono mid" font-size="10.5" letter-spacing="0.5">SwiftUI · HTML/CSS</text>
+
+    <rect x="40" y="226" width="364" height="150" fill="#0D0D0D" stroke="#2B2B2B"/>
+    <text x="60" y="256" class="mono red" font-size="11" letter-spacing="1.5">04</text>
+    <text x="107" y="256" class="mono lit" font-size="11" letter-spacing="1.5">DATA</text>
+    <line x1="60" y1="272" x2="384" y2="272" stroke="#2E2E2E"/>
+    <text x="60" y="296" class="mono mid" font-size="10.5" letter-spacing="0.5">PostgreSQL · MySQL · SQLite</text>
+    <text x="60" y="316" class="mono mid" font-size="10.5" letter-spacing="0.5">Redis · Neo4j</text>
+    <text x="60" y="336" class="mono mid" font-size="10.5" letter-spacing="0.5">Kafka · Spark · Debezium</text>
+
+    <rect x="418" y="226" width="364" height="150" fill="#0D0D0D" stroke="#2B2B2B"/>
+    <text x="438" y="256" class="mono red" font-size="11" letter-spacing="1.5">05</text>
+    <text x="485" y="256" class="mono lit" font-size="11" letter-spacing="1.5">INFRASTRUCTURE</text>
+    <line x1="438" y1="272" x2="762" y2="272" stroke="#2E2E2E"/>
+    <text x="438" y="296" class="mono mid" font-size="10.5" letter-spacing="0.5">Docker · Kubernetes</text>
+    <text x="438" y="316" class="mono mid" font-size="10.5" letter-spacing="0.5">Linux · AWS · Azure · GCP</text>
+    <text x="438" y="336" class="mono mid" font-size="10.5" letter-spacing="0.5">Git · GitHub · CI/CD</text>
+
+    <rect x="796" y="226" width="364" height="150" fill="#1A0A0A" stroke="#E61919"/>
+    <text x="816" y="256" class="mono red" font-size="11" letter-spacing="1.5">06</text>
+    <text x="863" y="256" class="mono lit" font-size="11" letter-spacing="1.5">AI</text>
+    <line x1="816" y1="272" x2="1140" y2="272" stroke="#4A2418"/>
+    <text x="816" y="296" class="mono mid" font-size="10.5" letter-spacing="0.5">LLMs · AI Agents</text>
+    <text x="816" y="316" class="mono mid" font-size="10.5" letter-spacing="0.5">Local inference · llama.cpp</text>
+    <text x="816" y="336" class="mono mid" font-size="10.5" letter-spacing="0.5">Ollama · model routing</text>
+    <text x="1140" y="256" text-anchor="end" class="mono red" font-size="9" letter-spacing="1.5">DIRECTION</text>
   </g>
 
-  <g class="sans" font-size="12" fill="#C9CDD4">
-    <text x="66" y="146">Java</text>
-    <text x="66" y="164">Python</text>
-    <text x="66" y="182">TypeScript</text>
-    <text x="66" y="200">JavaScript</text>
-    <text x="66" y="218">Swift</text>
-    <text x="66" y="236">Dart</text>
-    <text x="66" y="254">PHP</text>
+  <rect x="40" y="400" width="1120" height="140" fill="#0D0D0D" stroke="#2B2B2B"/>
+  <text x="60" y="434" class="mono red" font-size="12" letter-spacing="1.5">CORE //</text>
+  <text x="150" y="434" class="mono mid" font-size="10.5" letter-spacing="0.5">Java · Spring · TypeScript · Angular · PostgreSQL · Kafka · Docker · Git</text>
+  <line x1="60" y1="452" x2="1140" y2="452" stroke="#2E2E2E"/>
+  <text x="60" y="486" class="mono dim" font-size="12" letter-spacing="1.5">EXPLORING //</text>
+  <text x="60" y="512" class="mono mid" font-size="10.5" letter-spacing="0.5">LLMs · AI agents · llama.cpp · Ollama · local inference · model routing</text>
+  <text x="60" y="532" class="mono mid" font-size="10.5" letter-spacing="0.5">graph-based AI · agent orchestration · latency</text>
 
-    <text x="444" y="146">Spring Boot</text>
-    <text x="444" y="164">Spring Cloud</text>
-    <text x="444" y="182">Spring WebFlux</text>
-    <text x="444" y="200">Security · OAuth2</text>
-    <text x="444" y="218">NestJS · Express</text>
-    <text x="444" y="236">Laravel</text>
-
-    <text x="822" y="146">Angular</text>
-    <text x="822" y="164">React</text>
-    <text x="822" y="182">SvelteKit</text>
-    <text x="822" y="200">HTML · CSS</text>
-    <text x="822" y="218">Angular Material</text>
-    <text x="822" y="236">PrimeNG</text>
-  </g>
-
-  <g class="sans" font-size="12" fill="#C9CDD4">
-    <text x="66" y="334">PostgreSQL · MySQL</text>
-    <text x="66" y="352">SQLite · Redis</text>
-    <text x="66" y="370">Neo4j</text>
-    <text x="66" y="388">Kafka</text>
-    <text x="66" y="406">Spark</text>
-    <text x="66" y="424">Debezium · CDC</text>
-
-    <text x="444" y="334">Docker</text>
-    <text x="444" y="352">Kubernetes</text>
-    <text x="444" y="370">Linux</text>
-    <text x="444" y="388">AWS · Azure · GCP</text>
-    <text x="444" y="406">Git · GitHub</text>
-    <text x="444" y="424">CI/CD</text>
-
-    <text x="822" y="334">LLMs</text>
-    <text x="822" y="352">Local inference</text>
-    <text x="822" y="370">AI agents</text>
-    <text x="822" y="388">Tool execution</text>
-    <text x="822" y="406">Prompt engineering</text>
-    <text x="822" y="424">Data &#215; AI systems</text>
-  </g>
-
-  <g>
-    <rect x="40" y="288" width="364" height="200" rx="10" fill="#101216" stroke="#26292F"/>
-    <text x="60" y="320" class="mono amber" font-size="11.5" font-weight="600" letter-spacing="1.2">04</text>
-    <text x="92" y="320" class="mono dim" font-size="11.5" font-weight="600" letter-spacing="1.2">DATA</text>
-    <line x1="60" y1="334" x2="384" y2="334" stroke="#23262B"/>
-
-    <rect x="418" y="288" width="364" height="200" rx="10" fill="#101216" stroke="#26292F"/>
-    <text x="438" y="320" class="mono amber" font-size="11.5" font-weight="600" letter-spacing="1.2">05</text>
-    <text x="470" y="320" class="mono dim" font-size="11.5" font-weight="600" letter-spacing="1.2">INFRASTRUCTURE</text>
-    <line x1="438" y1="334" x2="762" y2="334" stroke="#23262B"/>
-
-    <rect x="796" y="288" width="364" height="200" rx="10" fill="#1B1710" stroke="#4A3B22"/>
-    <text x="816" y="320" class="mono amber" font-size="11.5" font-weight="600" letter-spacing="1.2">06</text>
-    <text x="848" y="320" class="mono dim" font-size="11.5" font-weight="600" letter-spacing="1.2">AI</text>
-    <line x1="816" y1="334" x2="1140" y2="334" stroke="#2A2418"/>
-  </g>
-
-  <line x1="40" y1="540" x2="1160" y2="540" class="hair"/>
-  <text x="40" y="562" class="mono dim" font-size="11" letter-spacing="0.8">WORKED WITH · EXPLORING · EXTENDING</text>
-  <text x="1160" y="562" text-anchor="end" class="mono amber" font-size="11" letter-spacing="1.2">6 DOMAINS · 1 STACK</text>
+  <line x1="40" y1="566" x2="1160" y2="566" stroke="#2E2E2E"/>
+  <text x="52" y="588" class="mono dim" font-size="10" letter-spacing="1.5">WORKED WITH · EXPLORING · EXTENDING</text>
+  <text x="1150" y="588" text-anchor="end" class="mono red" font-size="10" letter-spacing="1.5">6 GATES</text>
 </svg>
