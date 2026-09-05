@@ -9,7 +9,7 @@
 
 <br/>
 
-**LENGUAJES //**
+**LENGUAJES**
 
 <img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=0A84FF" alt="Java" />
 <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=0A84FF" alt="TypeScript" />
@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash&logoColor=0A84FF" alt="Bash" />
 <br/>
 
-**BACKEND //**
+**BACKEND**
 
 <img src="https://img.shields.io/badge/Spring%20Boot-0D1117?style=flat-square&logo=springboot&logoColor=0A84FF" alt="Spring Boot" />
 <img src="https://img.shields.io/badge/Spring%20Cloud-0D1117?style=flat-square&logo=spring&logoColor=0A84FF" alt="Spring Cloud" />
@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/Laravel-0D1117?style=flat-square&logo=laravel&logoColor=0A84FF" alt="Laravel" />
 <br/>
 
-**FRONTEND //**
+**FRONTEND**
 
 <img src="https://img.shields.io/badge/Angular-0D1117?style=flat-square&logo=angular&logoColor=0A84FF" alt="Angular" />
 <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=0A84FF" alt="React" />
@@ -37,7 +37,7 @@
 <img src="https://img.shields.io/badge/SwiftUI-0D1117?style=flat-square&logo=swift&logoColor=0A84FF" alt="SwiftUI" />
 <br/>
 
-**INFRAESTRUCTURA //**
+**INFRAESTRUCTURA**
 
 <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=0A84FF" alt="Docker" />
 <img src="https://img.shields.io/badge/Kubernetes-0D1117?style=flat-square&logo=kubernetes&logoColor=0A84FF" alt="Kubernetes" />
@@ -50,7 +50,7 @@
 <img src="https://img.shields.io/badge/Google%20Cloud-0D1117?style=flat-square&logo=googlecloud&logoColor=0A84FF" alt="GCP" />
 <br/>
 
-**IA · DATA //**
+**IA · DATA**
 
 <img src="https://img.shields.io/badge/Apache%20Spark-0D1117?style=flat-square&logo=apachespark&logoColor=0A84FF" alt="Apache Spark" />
 <img src="https://img.shields.io/badge/Apache%20Kafka-0D1117?style=flat-square&logo=apachekafka&logoColor=0A84FF" alt="Kafka" />
@@ -59,7 +59,7 @@
 
 <br/>
 
-**LIBRERÍAS //**
+**LIBRERÍAS**
 
 <img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=0A84FF" alt="Pandas" />
 <img src="https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=0A84FF" alt="NumPy" />
@@ -69,7 +69,7 @@
 
 <br/>
 
-**ACTIVIDAD //**
+**ACTIVIDAD**
 
 <img src="https://streak-stats.demolab.com?user=danielferparradiaz&hide_border=true&background=0D1117&stroke=2B2B2B&ring=0A84FF&fire=0A84FF&currStreakLabel=0A84FF&sideLabels=8A8A8A&currStreakNum=EAEAEA&sideNums=EAEAEA&dates=8A8A8A" alt="GitHub Streak" />
 
