@@ -20,7 +20,7 @@ LAYERS = [
      "Pandas  ·  NumPy  ·  scikit-learn  ·  PyTorch  ·  Jupyter",
      "#FF453A", "crashLeft", 0.15),
     ("IA · DATA",
-     "Spark  ·  Kafka  ·  Debezium  ·  ETL",
+     "Spark  ·  Kafka  ·  Debezium  ·  ETL  ·  Ollama  ·  llama.cpp  ·  OpenAI  ·  MCP",
      "#30D158", "crashRight", 0.95),
     ("INFRAESTRUCTURA",
      "Docker  ·  K8s  ·  PostgreSQL  ·  MySQL  ·  Redis  ·  Neo4j  ·  AWS  ·  Azure  ·  GCP",

@@ -5,7 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2200&pause=900&color=0A84FF&center=true&vCenter=true&width=620&lines=SOFTWARE+ENGINEER;DATA+%26+AI+ENGINEERING+STUDENT;THE+TECHNOLOGY+UPGRADES+EVERY+TIME" alt="" />
 
 <a href="mailto:danielferparradiaz@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=0A84FF" alt="" /></a>
-<a href="https://github.com/danielferparradiaz"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=0A84FF" alt="" /></a>
 
 <br/>
 
@@ -68,6 +67,10 @@
 <img src="https://img.shields.io/badge/Apache%20Kafka-0D1117?style=flat-square&logo=apachekafka&logoColor=30D158" alt="" />
 <img src="https://img.shields.io/badge/Debezium-0D1117?style=flat-square&logo=debezium&logoColor=30D158" alt="" />
 <img src="https://img.shields.io/badge/ETL-0D1117?style=flat-square&logo=simpledotorg&logoColor=30D158" alt="" />
+<img src="https://img.shields.io/badge/Ollama-0D1117?style=flat-square&logo=ollama&logoColor=30D158" alt="" />
+<img src="https://img.shields.io/badge/llama.cpp-0D1117?style=flat-square&logoColor=30D158" alt="" />
+<img src="https://img.shields.io/badge/OpenAI-0D1117?style=flat-square&logo=openai&logoColor=30D158" alt="" />
+<img src="https://img.shields.io/badge/MCP-0D1117?style=flat-square&logo=modelcontextprotocol&logoColor=30D158" alt="" />
 
 <br/>
 
