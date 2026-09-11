@@ -213,7 +213,7 @@
       <text x="188" y="554.0" class="mono tag" fill="#0A84FF"
             font-size="14" letter-spacing="3">LENGUAJES</text>
       <text x="188" y="578.0" class="mono tech" fill="#D7DCE3"
-            font-size="14.5">Java  ·  TypeScript  ·  Python  ·  Ruby  ·  Bash</text>
+            font-size="14.5">Java  ·  TypeScript  ·  Python  ·  Ruby  ·  Bash  ·  Rust  ·  Go</text>
       <text x="1122" y="566.0" text-anchor="end" class="mono layerTag"
             font-size="11" letter-spacing="2" fill="#0A84FF"
             style="animation-delay:5.15s">LAYER 06 / 06</text>

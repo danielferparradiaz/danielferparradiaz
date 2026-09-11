@@ -32,7 +32,7 @@ LAYERS = [
      "Spring Boot  ·  Spring Cloud  ·  Node.js  ·  NestJS  ·  Express  ·  Laravel",
      "#FF9F0A", "driftRight", 3.35),
     ("LENGUAJES",
-     "Java  ·  TypeScript  ·  Python  ·  Ruby  ·  Bash",
+     "Java  ·  TypeScript  ·  Python  ·  Ruby  ·  Bash  ·  Rust  ·  Go",
      "#0A84FF", "dropSpin", 4.15),
 ]
 
